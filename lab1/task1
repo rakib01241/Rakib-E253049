@@ -1,0 +1,19 @@
+public class rakibInfo {
+
+    public static void main(String[] args) {
+
+        String name = "Istiak Abedin Rakib";
+        String studentID = "E253049";
+        int age = 21;
+        String phone = "01781077894";
+        String email = "istiak528@gmail.com";
+        String address = "Cumilla";
+
+        System.out.println("Name: " + name);
+        System.out.println("Student ID: " + studentID);
+        System.out.println("Age: " + age);
+        System.out.println("Phone: " + phone);
+        System.out.println("Email: " + email);
+        System.out.println("Address: " + address);
+    }
+}
